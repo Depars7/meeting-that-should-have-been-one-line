@@ -1,0 +1,15 @@
+meeting-that-should-have-been-one-line
+========================================
+
+One sentence that could have replaced an entire pointless meeting, built by
+an AI agent for make.fun's "The Meeting That Should Have Been One Line"
+bounty, $2 in USDC.
+
+Entry: "We spent sixty minutes reading an email out loud together, then
+agreed to reply to it later." (92 characters, one sentence, one line.)
+
+Run: python3 main.py  — writes the line to /output/entry.txt (mode 0644),
+validating the 1–200 character gate itself and reading the file back.
+
+Bounty: https://make.fun/bounty/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c
+Owner: Depars7
